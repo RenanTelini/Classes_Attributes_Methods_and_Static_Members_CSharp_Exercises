@@ -1,8 +1,8 @@
-# Introduction to classes - C# Exercises
+# Classes, Attributes, Methods and Static Members - C# Exercises
 
 #### These exercises are based on the <a href="https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/?couponCode=MT260714G2">"C# COMPLETO Programação Orientada a Objetos + Projetos"</a> course.
 
-## Introduction to classes
+## Classes and Attributes
 
 ### <ins>Exercise 01</ins>
 

@@ -51,3 +51,24 @@ Enter the height and width of a rectangle: <br>
 Area = 12.00<br>
 Perimeter = 14.00<br>
 Diagonal = 5.00
+
+### <ins>Exercise 04</ins>
+
+#### Write a program to read an employee's data (name, gross salary, and tax). Then, display the employee's name and net salary. Next, increase the employee's salary by a given percentage. The percentage should be applied only to the gross salary. Finally, display the employee's name and updated net salary. Use the class designed below.
+
+| Employee |
+|:----|
+| - Name: string <br> - GrossSalary: double <br> - Tax: double |
+| + NetSalary(): double <br> + IncreaseSalary(percentage: double): void |
+
+#### Example:
+
+Name: <strong>Joao Silva</strong><br>
+Gross salary: <strong>6000.00</strong><br>
+Tax: <strong>1000.00</strong><br>
+
+Employee: Joao Silva, $ 5000.00
+
+Enter the percentage increase in salary: <strong>10.0</strong><br>
+
+Updated data: Joao Silva, $ 5600.00

@@ -31,3 +31,23 @@ Details of the second employee:<br>
 Name: <strong>Ana Marques</strong><br>
 Salary: <strong>6700.00</strong><br>
 Average salary = <strong>6500.00</strong>
+
+## Classes and Methods
+
+### <ins>Exercise 03</ins>
+
+#### Write a program to read the width and height of a rectangle. Then, display its area, perimeter, and diagonal. Use a class based on the UML diagram shown alongside this exercise.
+
+| Rectangle |
+|:----|
+|- Heght: double <br> - Width: double |
+| + Area(): double <br> + Perimeter(): double <br> + Diagonal(): double |
+
+#### Example:
+
+Enter the height and width of a rectangle: <br>
+<strong>3.00</strong><br>
+<strong>4.00</strong><br>
+Area = 12.00<br>
+Perimeter = 14.00<br>
+Diagonal = 5.00

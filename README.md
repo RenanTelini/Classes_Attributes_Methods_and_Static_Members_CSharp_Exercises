@@ -102,7 +102,7 @@ Final grade = 52.00<br>
 Failed<br>
 Fell short by 8.00 points
 
-#### Class Student:
+#### Student Class:
 
 | Student |
 |:-|
@@ -117,7 +117,7 @@ Fell short by 8.00 points
 
 #### Create a "CurrencyConverter" class to handle the calculations.
 
-#### Class CurrencyConverter:
+#### CurrencyConverter Class:
 
 | CurrencyConverter |
 |:--|

@@ -73,7 +73,7 @@ Enter the percentage increase in salary: <strong>10.0</strong><br>
 
 Updated data: Joao Silva, $ 5600.00
 
-### <ins>Exercise 04</ins>
+### <ins>Exercise 05</ins>
 
 #### Write a program to read a student's names and the three grades obtained in the three terms of the year (the first term is worth 30 points, while the second and third terms are worth 35 points each).
 

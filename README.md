@@ -72,3 +72,39 @@ Employee: Joao Silva, $ 5000.00
 Enter the percentage increase in salary: <strong>10.0</strong><br>
 
 Updated data: Joao Silva, $ 5600.00
+
+### <ins>Exercise 04</ins>
+
+#### Write a program to read a student's names and the three grades obtained in the three terms of the year (the first term is worth 30 points, while the second and third terms are worth 35 points each).
+
+#### At the end, display the student's final grade for the year. Also, indicate whether the student has PASSED or FAILED. If the student has FAILED, state how many points are needed to reach the minimum passing score of 60 points.
+
+#### You must create a "Student" class to solve this problem.
+
+#### Example 1:
+
+Student name: <strong>Alex Green</strong><br>
+Enter the student's three grades:<br>
+<strong>27.00</strong><br>
+<strong>31.00</strong><br>
+<strong>32.00</strong><br>
+Final grade = 90.00<br>
+Approved
+
+#### Example 2:
+
+Student name: <strong>Alex Green</strong><br>
+Enter the student's three grades:<br>
+<strong>17.00</strong><br>
+<strong>20.00</strong><br>
+<strong>15.00</strong><br>
+Final grade = 52.00<br>
+Failed<br>
+Fell short by 8.00 points
+
+#### Class Student:
+
+| Student |
+|:-|
+| - Name: string <br> - Grade1: double <br> - Grade2: double <br> - Grade3: double |
+| + CalcGrade(): double <br> + CalcReprovedGrade(): double |

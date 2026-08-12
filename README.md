@@ -108,3 +108,24 @@ Fell short by 8.00 points
 |:-|
 | - Name: string <br> - Grade1: double <br> - Grade2: double <br> - Grade3: double |
 | + CalcGrade(): double <br> + CalcReprovedGrade(): double |
+
+## Classes and Static Members
+
+### <ins>Exercise 06</ins>
+
+#### Write a program that reads the dollar exchange rate and the amount of dollars a person wants to purchase using Brazilian reais. Calculate and display the total amount to be paid in reais, including a 6% IOF tax applied to the dollar amount.
+
+#### Create a "CurrencyConverter" class to handle the calculations.
+
+#### Class CurrencyConverter:
+
+| CurrencyConverter |
+|:--|
+| - Iof: double |
+| + CalcConversion(double exchangeRate, <br>double qtyDollars): double |
+
+#### Example:
+
+What is the dollar exchange rate? <strong>3.10</strong><br>
+How many dollars are you going to buy? <strong>200.00</strong><br>
+Amount to be paid in Brazilian reais = 657.20
